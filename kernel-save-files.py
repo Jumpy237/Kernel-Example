@@ -22,5 +22,3 @@ cv2.imwrite('dog_blur.jpg', result_blur)
 cv2.imwrite('dog_gblur.jpg', result_gblur)
 cv2.imwrite('dog_edge.jpg', result_edge)
 
-cv2.waitKey(0)
-cv2.destroyAllWindows()
